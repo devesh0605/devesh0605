@@ -1,8 +1,5 @@
 ### Konnichiwa 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... some fun react projects
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... python projects
