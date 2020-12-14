@@ -1,6 +1,5 @@
 ### Konnichiwa 👋
 
-<!--
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... dsaxena_be18@thapar.edu
 - 😄 Pronouns:  ... He/Him
 - ⚡ Fun fact: ... Dark themes are the best and if you like them too you are certainly a wonderful person!!!
--->
+
