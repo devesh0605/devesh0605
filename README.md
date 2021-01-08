@@ -1,6 +1,6 @@
 ### Konnichiwa 👋
 
-- 🔭 I’m currently working on ... some fun react-native and desktop apps
+- 🔭 I’m currently working on ... django apps
 - 🌱 I’m currently learning ... Django
 - 👯 I’m looking to collaborate on ... python and react projects
 - 🤔 I’m looking for help with ... stuctures,pointers and linked lists
