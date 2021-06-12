@@ -7,6 +7,4 @@
 - 💬 Ask me about ... 
 - 📫 How to reach me: ... dsaxena_be18@thapar.edu
 - 😄 Pronouns:  ... He/Him
-- ⚡ Fun fact: ... rafce and rnse wll give you boillerplate code for react and react-native respectively
-
-
+- ⚡ Fun fact: ...
